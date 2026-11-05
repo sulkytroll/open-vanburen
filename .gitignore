@@ -1,0 +1,19 @@
+# build output
+build/
+# proprietary game files / binaries that must not be committed (the extracted game assets and the tech demo live outside this folder)
+granny2.dll
+*.gts
+*.dll
+*.exe
+*.7z
+# screenshots and scratch output
+*.bmp
+*.png
+!packaging/vanburen.png
+!data/menu_buttons.png
+__pycache__/
+*.pyc
+rea_out/
+dist/
+build-appimage/
+build-tarball/

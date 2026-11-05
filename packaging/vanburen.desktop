@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Open Van Buren
+GenericName=Fallout 3 Van Buren tech demo engine
+Comment=Native engine for the Fallout 3 "Van Buren" tech demo (needs your own copy of the demo)
+Exec=vanburen
+Icon=vanburen
+Categories=Game;RolePlaying;
+Terminal=false
